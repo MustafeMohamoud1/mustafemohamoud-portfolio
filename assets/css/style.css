@@ -1,0 +1,30 @@
+body {
+    background-color: rgba(113, 186, 186, 0.829);
+    height: 100vh;
+    margin: 0;
+}
+header {
+    text-align: center;
+}
+nav {
+    width: 80%;
+    margin: 0 auto;
+}
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+nav ul a {
+    text-decoration: none;
+    color: black;
+}
+main {
+    height: 500px;
+}
+section {
+    display: flex;
+}
+aside {
+    width: 25%;
+}
