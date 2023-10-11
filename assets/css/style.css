@@ -1,9 +1,12 @@
 body {
-  background-color: rgba(216, 216, 216, 0.896);
+  background-color: rgba(20, 100, 129, 0.896);
   height: 100vh;
   margin: 0;
+  font-family: monospace;
+  color: antiquewhite;
 }
 header {
+  font-style: italic;
   text-align: center;
 }
 nav {
@@ -17,7 +20,7 @@ nav ul {
 }
 nav ul a {
   text-decoration: none;
-  color: black;
+  color: antiquewhite;
 }
 figure {
   justify-content: center;
@@ -34,16 +37,26 @@ main {
 section {
   display: flex;
 }
-aside {
+section aside {
   width: 30%;
-  height: 250px;
+  height: 200px;
   padding: 5%;
 }
 
 div {
-    padding-top: 5%;
+  padding-top: 5%;
 }
 
-div img {
-    width: 800px;
+footer aside {
+  width: 30%;
+  height: 200px;
+  padding: 5%;
 }
+footer ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+  }
+
+    
+    
