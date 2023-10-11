@@ -6,6 +6,17 @@ body {
 header {
     text-align: center;
 }
+
+figure {
+height: fit-content;
+width: fit-content
+}
+
+figure img {
+height: 20vh;
+width: 20vh;
+}
+
 nav {
     width: 80%;
     margin: 0 auto;
