@@ -28,8 +28,7 @@ figure {
   width: 90%;
 }
 figure img {
-  height: 30vh;
-  /* width: 30vh; */
+  height: 250px;
 }
 main {
   height: fit-content;
@@ -38,17 +37,12 @@ section {
   display: flex;
 }
 section aside {
-  width: 30%;
+  width: 150px;
   height: 200px;
   padding: 5%;
 }
-
-div {
-  padding-top: 5%;
-}
-
 footer aside {
-  width: 30%;
+  width: 150px;
   height: 200px;
   padding: 5%;
 }
