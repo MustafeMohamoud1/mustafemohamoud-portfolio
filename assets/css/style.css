@@ -23,7 +23,6 @@ figure {
   justify-content: center;
   height: fit-content;
   width: 90%;
-  background-image: cross-fade();
 }
 figure img {
   height: 30vh;
@@ -43,4 +42,8 @@ aside {
 
 div {
     padding-top: 5%;
+}
+
+div img {
+    width: 800px;
 }
