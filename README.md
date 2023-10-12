@@ -26,5 +26,5 @@ THEN I am presented with a responsive layout that adapts to my viewport.
 My basic mock-up portfolio meets all the acceptance criteria as well as all the other additional application requirements. Below is a screenshot of my deployed website as well as a link to it:
 ![Screenshot of deployed website](assets/images/screenshot%20of%20deployed%20website.png)
 
-<a href= "https://mustafemohamoud1.github.io/mustafemohamoud-portfolio/"></a>
+<a href= "https://mustafemohamoud1.github.io/mustafemohamoud-portfolio/">Link to deployed Webpage</a> 
 
