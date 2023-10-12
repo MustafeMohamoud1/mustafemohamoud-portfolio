@@ -41,16 +41,23 @@ section aside {
   height: 200px;
   padding: 5%;
 }
+
+.grid-container .img {
+  display: grid;
+  grid-template-columns: auto;
+  padding: 10px;
+  border: 1px solid black;
+  max-width: 400px;
+  max-height: 400px;
+}
+
 footer aside {
   width: 150px;
   height: 200px;
   padding: 5%;
 }
 footer ul {
-    list-style-type: none;
-    display: flex;
-    justify-content: space-around;
-  }
-
-    
-    
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
